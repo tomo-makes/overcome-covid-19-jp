@@ -22,7 +22,7 @@
     - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
 - 3/8 7p- 南青山MANDALA 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
 - 3/8 7p 京都磔磔 騒音寺、匕首蝮、桜川春子 YouTube配信予定
-- 3/8 (夕刻の予定) aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
+- 3/8 9p aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
 - 3/14 11a- 東京交響楽団 Live from Muza! モーツァルト・マチネ第40回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
     - モーツァルト：フルート四重奏曲 第3番 ハ長調 K. 285b、交響曲 第35番 ニ長調 K. 385 「ハフナー」、ピアノ協奏曲 第13番 ハ長調 K. 415 (387b)
     - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324590792)
