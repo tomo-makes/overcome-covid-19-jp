@@ -10,6 +10,7 @@
 - COVID-19関連情報
 
 ## ライブ配信系
+### Upcoming
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
 - 3/7-8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
@@ -21,6 +22,9 @@
     - 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
+### Archive
+- 3/6 やさしい就活(オンライン合同説明会) https://twitter.com/note_eventinfo/status/1235808848809562114
+    - 参加企業：光文社、DMMグループ、ABEJA、ヌーラボ、ミクシィ、Quark tokyo、ビザスク、文藝春秋、テレビ東京、パイプドHD
 
 ## その他の支援サービス
 
