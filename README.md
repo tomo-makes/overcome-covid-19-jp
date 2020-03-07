@@ -33,7 +33,8 @@
 - 3/7 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
 - 3/7 3p-4.30p [【ライブ配信】メディアアートのゆくえ、デジタルと質量の関係性 Media Ambition Tokyo](http://mediaambitiontokyo.jp/news/mattalk02/)
 - 3/7 5p-7p 3,000円 [EGOIST](http://www.sonymusic.co.jp/ipn/Arch/egoist/info/archive/?516122)
-- 3/7 7p- 南青山MANDALA 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
+- 3/7 7p-  松ヶ下宏之@南青山MANDALA 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
+- 3/7 7p- [東京塩麹 Live on YouTube](https://www.youtube.com/watch?v=Ap68Td2nnYc)
 
 
 ### その他
