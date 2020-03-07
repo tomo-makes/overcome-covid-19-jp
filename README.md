@@ -4,6 +4,9 @@ COVID-19を転じて、(すでにみられる)リモートワーク普及だけ�
 
 メンテしていくかは未定です。追加pull reqeustsお願いします。拾いやすいtwitter hashtagとかあればいいなという気持ち。
 
+- ライブ配信系
+- その他の支援サービス
+- COVID-19関連情報
 
 ## ライブ配信系
 
@@ -15,7 +18,7 @@ COVID-19を転じて、(すでにみられる)リモートワーク普及だけ�
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
 
-## その他サービス無料開放系
+## その他の支援サービス
 
 ここによくまとまっている。
 > [【まとめ】各社の新型コロナ関連支援サービスまとめ　漫画読み放題、学習支援、給食代替など - ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/2003/01/news023.html)
@@ -45,6 +48,10 @@ COVID-19を転じて、(すでにみられる)リモートワーク普及だけ�
 
 - 3/1- [N予備校](https://www.nnn.ed.nico/) 無料開放 
 
+
+## COVID-19関連の情報
+
+- 感染症専門医による、冷静かつ平易な言葉での解説、発信 [忽那賢志の記事一覧 - 個人 - Yahoo!ニュース](https://news.yahoo.co.jp/byline/kutsunasatoshi/)
 
 
 
