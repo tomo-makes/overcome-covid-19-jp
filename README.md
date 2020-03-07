@@ -13,6 +13,9 @@
 ### 音楽
 #### Upcoming
 
+- 3/8 2p- 東京交響楽団 Live from Muza! 名曲全集第155回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
+    - ドビュッシー：牧神の午後への前奏曲、ラヴェル：ピアノ協奏曲ト長調、サン＝サーンス：交響曲第３番「オルガン付き」
+    - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324588340)
 - 3/8 12-4p avexスペシャルライブ [avex management SPECIAL LIVE - YouTube](https://www.youtube.com/watch?v=bU5PUe_osuM)
     - 12- kolme / SUPER☆GiRLS / 東京女子流 / TOK￥O TRICKING MOB / Beverly / Miyuu / moumoon / わーすた / ONE CHANCE
     - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
@@ -20,6 +23,9 @@
 - 3/8 7p- 南青山MANDALA 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
 - 3/8 7p 京都磔磔 騒音寺、匕首蝮、桜川春子 YouTube配信予定
 - 3/8 (夕刻の予定) aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
+- 3/14 11a- 東京交響楽団 Live from Muza! モーツァルト・マチネ第40回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
+    - モーツァルト：フルート四重奏曲 第3番 ハ長調 K. 285b、交響曲 第35番 ニ長調 K. 385 「ハフナー」、ピアノ協奏曲 第13番 ハ長調 K. 415 (387b)
+    - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324590792)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
 #### Archive
