@@ -1,6 +1,6 @@
 # COVID-19に負けない! 配信、支援サービスリスト
 
-https://tomo-makes.github.io/overcome-covid-19-jp/
+[https://tomo-makes.github.io/overcome-covid-19-jp/](https://tomo-makes.github.io/overcome-covid-19-jp/)
 
 (すでにみられる)リモートワーク普及だけでなく、自身の住む場所/アクセスに寄らず自分の好きなコンテンツを見つける転機になるのではとの願いから、ライブ、コンテンツなどの配信情報をまとめます。
 メンテしていくかは未定です。追加pull reqeustsお願いします。拾いやすいtwitter hashtagとかあればいいなという気持ち。
