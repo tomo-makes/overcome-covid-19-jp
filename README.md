@@ -22,6 +22,7 @@
     - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
 - 3/8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
 - 3/8 7p- 南青山MANDALA 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
+- 3/8 7p 京都磔磔 騒音寺、匕首蝮、桜川春子 YouTube配信予定
 - 3/8 (夕刻の予定) aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
