@@ -8,6 +8,7 @@ COVID-19を転じて、(すでにみられる)リモートワーク普及だけ�
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
 - 3/7-8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
+- 3/7 3p-4.30p [【ライブ配信】メディアアートのゆくえ、デジタルと質量の関係性 | Media Ambition Tokyo](http://mediaambitiontokyo.jp/news/mattalk02/)
 - 3/7 5p-7p [EGOIST](http://www.sonymusic.co.jp/ipn/Arch/egoist/info/archive/?516122)
 - 3/8 aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
@@ -18,7 +19,7 @@ COVID-19を転じて、(すでにみられる)リモートワーク普及だけ�
 ここによくまとまっている。
 > [【まとめ】各社の新型コロナ関連支援サービスまとめ　漫画読み放題、学習支援、給食代替など - ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/2003/01/news023.html)
 
-### TV
+### TV、動画
 
 - 3/4-3/末 スカパー無料放送 [スカパー！、休校・自宅待機を受け一部チャンネルで無料放送 - CNET Japan](https://japan.cnet.com/article/35150381/)
 - 3/4- アニマックス無料放送(BS ch236) [＜自宅待機を支援＞アニマックス無料放送のお知らせ | ブログ | アニマックス](https://www.animax.co.jp/blog/619471)
