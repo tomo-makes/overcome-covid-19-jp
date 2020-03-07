@@ -13,13 +13,19 @@
 ### Upcoming
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
-- 3/7-8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
+- 3/7 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
 - 3/7 3p-4.30p [【ライブ配信】メディアアートのゆくえ、デジタルと質量の関係性 Media Ambition Tokyo](http://mediaambitiontokyo.jp/news/mattalk02/)
 - 3/7 5p-7p [EGOIST](http://www.sonymusic.co.jp/ipn/Arch/egoist/info/archive/?516122)
-- 3/8 (夕刻の予定) aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
-- 3/7-8 7p- 南青山MANDALA
+- 3/7 7p- 南青山MANDALA
+    - 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
+- 3/8 12-4p avexスペシャルライブ [avex management SPECIAL LIVE - YouTube](https://www.youtube.com/watch?v=bU5PUe_osuM)
+    - 12- kolme / SUPER☆GiRLS / 東京女子流 / TOK￥O TRICKING MOB / Beverly / Miyuu / moumoon / わーすた / ONE CHANCE
+    - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
+- 3/8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
+- 3/8 7p- 南青山MANDALA
     - 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
     - 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
+- 3/8 (夕刻の予定) aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
 ### Archive
@@ -41,6 +47,8 @@
 - 3/6-13 会員登録不要で日本テレビ一部コンテンツの無料配信。ドラマ92作品、バラエティ27作品 [Hulu](https://www.hulu.jp/?migrated=true)
 - 3/6-31 Paravi [【期間限定】長期春休み応援！ドラマ無料配信 | Paravi(パラビ) - 人気番組が楽しめる動画配信サービス](https://www.paravi.jp/browse/editorial/10182)
     - 「桜蘭高校ホスト部」「表参道高校合唱部！」「オレンジデイズ」「義母と娘のブルース」「恋空」「下町ロケット（2018年）」「JIN -仁-」「世界の中心で、愛をさけぶ」「タンブリング」「チア☆ダン」「中学聖日記」「天皇の料理番」「とんび」「ノーサイド・ゲーム」「初めて恋をした日に読む話」「花のち晴れ～花男 Next Season～」「ビー・バップ・ハイスクール」「放課後グルーヴ」「放課後はミステリーとともに」「ヤンキー君とメガネちゃん」「陸王」「ROOKIES」
+- 3/6-31 avex 期間限定ライブ映像公開 [【期間限定】LIVE映像公開！ - YouTube](https://www.youtube.com/playlist?list=PLgtRDsudgFDAq2fLG-4_9omtbovyKubbL)
+    - エイベックス・マネジメント(AMG)所属アーティストによるライブ映像コンテンツ約100本順次公開。TRF、浜崎あゆみ、倖田來未、AAAなど
 
 ### 書籍
 
