@@ -20,6 +20,8 @@ COVID-19を転じて、(すでにみられる)リモートワーク普及だけ�
 ここによくまとまっている。
 > [【まとめ】各社の新型コロナ関連支援サービスまとめ　漫画読み放題、学習支援、給食代替など - ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/2003/01/news023.html)
 
+> [VS COVID-19 企業による支援リスト](https://codeforjapan.github.io/supportmenu-vs-covid19/)
+
 ### TV、動画
 
 - 3/4-3/末 スカパー無料放送 [スカパー！、休校・自宅待機を受け一部チャンネルで無料放送 - CNET Japan](https://japan.cnet.com/article/35150381/)
