@@ -10,13 +10,9 @@
 - COVID-19関連情報
 
 ## ライブ配信系
-### Upcoming
+### 音楽
+#### Upcoming
 
-- 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
-- 3/7 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
-- 3/7 3p-4.30p [【ライブ配信】メディアアートのゆくえ、デジタルと質量の関係性 Media Ambition Tokyo](http://mediaambitiontokyo.jp/news/mattalk02/)
-- 3/7 5p-7p 3,000円 [EGOIST](http://www.sonymusic.co.jp/ipn/Arch/egoist/info/archive/?516122)
-- 3/7 7p- 南青山MANDALA 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
 - 3/8 12-4p avexスペシャルライブ [avex management SPECIAL LIVE - YouTube](https://www.youtube.com/watch?v=bU5PUe_osuM)
     - 12- kolme / SUPER☆GiRLS / 東京女子流 / TOK￥O TRICKING MOB / Beverly / Miyuu / moumoon / わーすた / ONE CHANCE
     - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
@@ -26,7 +22,21 @@
 - 3/8 (夕刻の予定) aiko 「Love Like Rock vol.9〜別枠ちゃん〜」[aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial/)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
-### Archive
+#### Archive
+
+- 3/7 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
+- 3/7 3p-4.30p [【ライブ配信】メディアアートのゆくえ、デジタルと質量の関係性 Media Ambition Tokyo](http://mediaambitiontokyo.jp/news/mattalk02/)
+- 3/7 5p-7p 3,000円 [EGOIST](http://www.sonymusic.co.jp/ipn/Arch/egoist/info/archive/?516122)
+- 3/7 7p- 南青山MANDALA 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
+
+
+### その他
+#### Upcoming
+
+- 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
+- 3/15 5p-8p Ginza Sony Park で開催中の「#013 QUEEN IN THE PARK ～クイーンと遊ぼう～」で使われている、マルチプロジェクションシステム ”Fragment Shadow” の技術解説トーク＆ワークショップ [【オンライン】Park College #07 "Fragment Shadow" Technical Talk & Workshop / Supported by TDSW](https://tdsw023.peatix.com/)
+
+#### Archive
 - 3/6 やさしい就活(オンライン合同説明会) https://twitter.com/note_eventinfo/status/1235808848809562114
     - 参加企業：光文社、DMMグループ、ABEJA、ヌーラボ、ミクシィ、Quark tokyo、ビザスク、文藝春秋、テレビ東京、パイプドHD
 
