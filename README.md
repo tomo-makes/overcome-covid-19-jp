@@ -10,6 +10,9 @@
 - COVID-19関連情報
 
 ## ライブ配信系
+
+同様のコンセプト、より素敵なデザインで[オンラインフェスジャパン](https://www.onlinefesjapan.com/)が公開されています。こちらもご参考に。
+
 ### 音楽
 #### Upcoming
 
@@ -77,6 +80,10 @@
 
 ### 漫画
 
+- 3/2-4/5 角川つばさ文庫と角川まんが学習シリーズから、人気作200冊以上を無料公開 [人気作200冊以上無料公開！ KADOKAWA児童書ポータルサイト](https://yomeruba.com/news/entry-9838.html)
+- 3/2-31 [『ドラゴン桜』1~11巻を無料公開します　ドラゴン桜公式note](https://note.com/mitanorifusa/n/n434b28927f27)
+- 3/3- [「宇宙兄弟」50巻公開](https://twitter.com/uchu_kyodai/status/1234671468811669505?s=20)
+- 3/4-31 [週刊少年チャンピオン電子版1-12号](https://twitter.com/Weekly_Champion/status/1235017909988016128?s=20)
 - 3/9-4/5「ワンピース」60巻公開@ジャンプ+、ゼブラック [ワンピースを60巻まで無料公開「外出が難しいみなさんに」 - ライブドアニュース](https://news.livedoor.com/article/detail/17926971/)
 - ジャンプSQ 1年分無料公開 [「【無料版】ジャンプSQ」の検索結果 ジャンプBOOKストア！](http://jumpbookstore.com/item_list.html?keyword=%E3%80%90%E7%84%A1%E6%96%99%E7%89%88%E3%80%91%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97SQ)
 - サンデー [無料で読める漫画を毎日更新！サンデーうぇぶり](https://www.sunday-webry.com/)
