@@ -16,19 +16,13 @@
 ### 音楽
 #### Upcoming
 
-- 3/8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
-- 3/8 2p- 東京交響楽団 Live from Muza! 名曲全集第155回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
-    - ドビュッシー：牧神の午後への前奏曲、ラヴェル：ピアノ協奏曲ト長調、サン＝サーンス：交響曲第３番「オルガン付き」
-    - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324588340)
-- 3/8 12-4p avexスペシャルライブ [avex management SPECIAL LIVE - YouTube](https://www.youtube.com/watch?v=bU5PUe_osuM)
-    - 12- kolme / SUPER☆GiRLS / 東京女子流 / TOK￥O TRICKING MOB / Beverly / Miyuu / moumoon / わーすた / ONE CHANCE
-    - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
-- 3/8 7p- 南青山MANDALA 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
-- 3/8 7p 京都磔磔 騒音寺、匕首蝮、桜川春子 
-- 3/8 10p aiko 「Love Like Rock vol.9〜別枠ちゃん〜」 https://www.youtube.com/watch?v=JvXywFwL_y0
+- 3/9 7p- [raciku](https://live.line.me/channels/1013652/broadcast/13095407) 
+- 3/9 9p- [第9回此花千鳥亭テレワーク寄席](https://www.youtube.com/watch?v=S6M__tbkg80) 千鳥亭(大阪市此花区、住吉神社近くの講談を中心とした劇場)
+    - 出演 桂吉の丞、旭堂南龍、笑福亭飛梅、桂ちきん此花
 - 3/14 11a- 東京交響楽団 Live from Muza! モーツァルト・マチネ第40回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
     - モーツァルト：フルート四重奏曲 第3番 ハ長調 K. 285b、交響曲 第35番 ニ長調 K. 385 「ハフナー」、ピアノ協奏曲 第13番 ハ長調 K. 415 (387b)
     - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324590792)
+- 3/14 6p- tricot [tricot、リリースツアー延期を受けてZeppDCから無観客ライブ生配信 - 音楽ナタリー](https://natalie.mu/music/news/370466)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
 #### Archive
@@ -40,7 +34,16 @@
 - 3/7 5p-7p 3,000円 [EGOIST](http://www.sonymusic.co.jp/ipn/Arch/egoist/info/archive/?516122)
 - 3/7 7p-  松ヶ下宏之@南青山MANDALA 100円 [3/7 19:00 ＜生配信松りに向けた試験放送＞  松ヶ下 宏之(Vo,Pf,G)](https://note.com/livegogo/n/n3b9a2923ffb2)
 - 3/7 7p- [東京塩麹 Live on YouTube](https://www.youtube.com/watch?v=Ap68Td2nnYc)
-
+- 3/8 1p- [オペラ『神々の黄昏』 ストリーミング配信 @滋賀県立芸術劇場びわ湖ホール](https://www.biwako-hall.or.jp/topics/20200304_7455.html)
+- 3/8 2p- 東京交響楽団 Live from Muza! 名曲全集第155回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
+    - ドビュッシー：牧神の午後への前奏曲、ラヴェル：ピアノ協奏曲ト長調、サン＝サーンス：交響曲第３番「オルガン付き」
+    - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324588340)
+- 3/8 12-4p avexスペシャルライブ [avex management SPECIAL LIVE - YouTube](https://www.youtube.com/watch?v=bU5PUe_osuM)
+    - 12- kolme / SUPER☆GiRLS / 東京女子流 / TOK￥O TRICKING MOB / Beverly / Miyuu / moumoon / わーすた / ONE CHANCE
+    - 2p- lol-エルオーエル- / 加治ひとみ / GENIC / SOLIDEMO / FAKY
+- 3/8 7p- 南青山MANDALA 2,500円 [3/8　＜生配信松りLIVE!-from南青山MANDALA　松ヶ下 宏之(Vo,Pf,G)＞](https://note.com/livegogo/n/n7caa5b1a70b5)
+- 3/8 7p 京都磔磔 騒音寺、匕首蝮、桜川春子 
+- 3/8 10p aiko 「Love Like Rock vol.9〜別枠ちゃん〜」 https://www.youtube.com/watch?v=JvXywFwL_y0
 
 ### その他
 #### Upcoming
