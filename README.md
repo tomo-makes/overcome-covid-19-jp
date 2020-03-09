@@ -19,6 +19,7 @@
 #### Upcoming
 
 - 3/9 7p- [raciku](https://live.line.me/channels/1013652/broadcast/13095407) 
+- 3/11 7p-9p ポップしなないで / toitoitoi [3/11(水) toitoitoi無観客生配信ライブ緊急決定のお知らせ](https://toitoitoi.info/news20200309/)
 - 3/14 11a- 東京交響楽団 Live from Muza! モーツァルト・マチネ第40回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
     - モーツァルト：フルート四重奏曲 第3番 ハ長調 K. 285b、交響曲 第35番 ニ長調 K. 385 「ハフナー」、ピアノ協奏曲 第13番 ハ長調 K. 415 (387b)
     - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324590792)
