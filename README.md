@@ -17,8 +17,6 @@
 #### Upcoming
 
 - 3/9 7p- [raciku](https://live.line.me/channels/1013652/broadcast/13095407) 
-- 3/9 9p- [第9回此花千鳥亭テレワーク寄席](https://www.youtube.com/watch?v=S6M__tbkg80) 千鳥亭(大阪市此花区、住吉神社近くの講談を中心とした劇場)
-    - 出演 桂吉の丞、旭堂南龍、笑福亭飛梅、桂ちきん此花
 - 3/14 11a- 東京交響楽団 Live from Muza! モーツァルト・マチネ第40回 [お知らせ 東京交響楽団　TOKYO SYMPHONY ORCHESTRA](http://tokyosymphony.jp/pc/news/news_4282.html)
     - モーツァルト：フルート四重奏曲 第3番 ハ長調 K. 285b、交響曲 第35番 ニ長調 K. 385 「ハフナー」、ピアノ協奏曲 第13番 ハ長調 K. 415 (387b)
     - 配信ページ: [ニコニコ生放送](https://live2.nicovideo.jp/watch/lv324590792)
@@ -49,12 +47,19 @@
 #### Upcoming
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
+- 3/10 7p- [休館中の江戸東京博物館「江戸ものづくり列伝－ニッポンの美は職人の技と心に宿る－」展から生中継《ニコニコ美術館》](https://sp.live.nicovideo.jp/watch/lv324617296)
+- 3/12 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
+- 3/15 7p- [休館中の東洋陶磁美術館 特別展「竹工芸名品展：ニューヨークのアビー・コレクション－メトロポリタン美術館所蔵」から生中継《ニコニコ美術館》](https://live2.nicovideo.jp/watch/lv324617360)
 - 3/15 5p-8p Ginza Sony Park で開催中の「#013 QUEEN IN THE PARK ～クイーンと遊ぼう～」で使われている、マルチプロジェクションシステム ”Fragment Shadow” の技術解説トーク＆ワークショップ [【オンライン】Park College #07 "Fragment Shadow" Technical Talk & Workshop / Supported by TDSW](https://tdsw023.peatix.com/)
+- 3/19 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
+- 3/26 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 
 #### Archive
 - 3/6 やさしい就活(オンライン合同説明会) https://twitter.com/note_eventinfo/status/1235808848809562114
     - 参加企業：光文社、DMMグループ、ABEJA、ヌーラボ、ミクシィ、Quark tokyo、ビザスク、文藝春秋、テレビ東京、パイプドHD
-
+- 3/9 9p- [第9回此花千鳥亭テレワーク寄席](https://www.youtube.com/watch?v=S6M__tbkg80) 千鳥亭(大阪市此花区、住吉神社近くの講談を中心とした劇場)
+    - 出演 桂吉の丞、旭堂南龍、笑福亭飛梅、桂ちきん此花
+    
 ## その他の支援サービス
 
 ここによくまとまっている。
@@ -78,6 +83,7 @@
 
 ### 書籍
 
+- 3/5-4/5 [一斉休校により家で過ごすみなさんへ 子供の科学 無料公開 特設サイト 2020年3月5日～4月5日 powered by 子供の科学](https://www.kodomonokagaku.com/20200305/)
 - 倉貫義人著「リモートチームでうまくいく」全文公開 [書籍「リモートチームでうまくいく」を全文公開します（2020年のアップデート付き） - SonicGarden 株式会社ソニックガーデン](https://www.sonicgarden.jp/202003_remoteteam)
 - 3/6-20 白川寧々著「英語ネイティブ脳みそのつくりかた」全文公開 [【期間限定　無料お試し版】英語ネイティブ脳みそのつくりかたの電子書籍｜新刊 - honto電子書籍ストア](https://honto.jp/ebook/pd_30218101.html)
 
@@ -100,6 +106,7 @@
 
 ### 教育
 
+- [科学技術広報研究会 臨時休校対応特別企画 休校中の子供たちにぜひ見て欲しい科学技術の面白デジタルコンテンツ](https://sites.google.com/view/jacst-for-kids/home#h.8fssbqtuoqcs)
 - 3/1- [N予備校](https://www.nnn.ed.nico/) 無料開放 
 
 
