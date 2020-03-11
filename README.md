@@ -125,6 +125,7 @@
 - [新型コロナ感染症による学校休業対策『#学びを止めない未来の教室』](https://www.learning-innovation.go.jp/covid_19/)
 - [臨時休業期間における学習支援コンテンツポータルサイト（子供の学び応援サイト）：文部科学省](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/index_00001.htm)
 - [科学技術広報研究会 臨時休校対応特別企画 休校中の子供たちにぜひ見て欲しい科学技術の面白デジタルコンテンツ](https://sites.google.com/view/jacst-for-kids/home#h.8fssbqtuoqcs)
+- 3/11-4/12 シリーズ全巻公開 [小学館版学習まんが少年少女日本の歴史](https://kids-km3.shogakukan.co.jp/)
 - 3/1- [N予備校](https://www.nnn.ed.nico/) 無料開放 
 
 
