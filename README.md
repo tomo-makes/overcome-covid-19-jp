@@ -61,6 +61,7 @@
 #### Upcoming
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
+- 3/15 1p- [ASJ beginner's seminar in VR 開催のお知らせ - 日本音響学会 学生・若手フォーラム](http://asj-fresh.acoustics.jp/?p=1390)
 - 3/15 7p- [休館中の東洋陶磁美術館 特別展「竹工芸名品展：ニューヨークのアビー・コレクション－メトロポリタン美術館所蔵」から生中継《ニコニコ美術館》](https://live2.nicovideo.jp/watch/lv324617360)
 - 3/15 5p-8p Ginza Sony Park で開催中の「#013 QUEEN IN THE PARK ～クイーンと遊ぼう～」で使われている、マルチプロジェクションシステム ”Fragment Shadow” の技術解説トーク＆ワークショップ [【オンライン】Park College #07 "Fragment Shadow" Technical Talk & Workshop / Supported by TDSW](https://tdsw023.peatix.com/)
 - 3/19 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
