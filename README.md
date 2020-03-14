@@ -13,7 +13,10 @@
 
 ## ライブ配信系
 
-同様のコンセプト、より素敵なデザインで[オンラインフェスジャパン](https://www.onlinefesjapan.com/)が公開されています。こちらもご参考に。
+同様のコンセプトで、
+- [オンラインフェスジャパン](https://www.onlinefesjapan.com/)
+- [コンサート無料ライヴ配信スケジュール | WEBぶらあぼ](https://ebravo.jp/archives/63048)
+が公開されています。こちらもご参考に。
 
 ### 音楽
 #### Upcoming
