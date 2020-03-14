@@ -60,8 +60,6 @@
 #### Upcoming
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
-- 3/10 7p- [休館中の江戸東京博物館「江戸ものづくり列伝－ニッポンの美は職人の技と心に宿る－」展から生中継《ニコニコ美術館》](https://sp.live.nicovideo.jp/watch/lv324617296)
-- 3/12 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 - 3/15 7p- [休館中の東洋陶磁美術館 特別展「竹工芸名品展：ニューヨークのアビー・コレクション－メトロポリタン美術館所蔵」から生中継《ニコニコ美術館》](https://live2.nicovideo.jp/watch/lv324617360)
 - 3/15 5p-8p Ginza Sony Park で開催中の「#013 QUEEN IN THE PARK ～クイーンと遊ぼう～」で使われている、マルチプロジェクションシステム ”Fragment Shadow” の技術解説トーク＆ワークショップ [【オンライン】Park College #07 "Fragment Shadow" Technical Talk & Workshop / Supported by TDSW](https://tdsw023.peatix.com/)
 - 3/19 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
@@ -72,7 +70,9 @@
     - 参加企業：光文社、DMMグループ、ABEJA、ヌーラボ、ミクシィ、Quark tokyo、ビザスク、文藝春秋、テレビ東京、パイプドHD
 - 3/9 9p- [第9回此花千鳥亭テレワーク寄席](https://www.youtube.com/watch?v=S6M__tbkg80) 千鳥亭(大阪市此花区、住吉神社近くの講談を中心とした劇場)
     - 出演 桂吉の丞、旭堂南龍、笑福亭飛梅、桂ちきん此花
-    
+- 3/10 7p- [休館中の江戸東京博物館「江戸ものづくり列伝－ニッポンの美は職人の技と心に宿る－」展から生中継《ニコニコ美術館》](https://sp.live.nicovideo.jp/watch/lv324617296)
+- 3/12 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
+
 ## その他の支援サービス
 
 ここによくまとまっている。
