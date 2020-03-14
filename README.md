@@ -25,9 +25,10 @@
 - 3/14 6p- tricot [tricot、リリースツアー延期を受けてZeppDCから無観客ライブ生配信 - 音楽ナタリー](https://natalie.mu/music/news/370466)
 - 3/14 6p- The Ninth Wave - Ode to Nature 目で聴き、耳で視る『ベートーヴェン』@東京・春・音楽祭 [配信情報](https://www.tokyo-harusai.com/news_jp/20200305/)
 - 3/14 7p- 山形交響楽団 第283回定期演奏会 [CURTAIN CALL 山形交響楽団](https://curtaincall.media/yamakyo.html)
+    - シューマン／序曲、スケルツォとフィナーレ 作品52、チャイコフスキー／ヴァイオリン協奏曲 ニ長調 作品35、シューマン／交響曲 第2番 ハ長調 作品61
 - 3/15 4p- ベルリン・フィルのメンバーによる室内楽@東京・春・音楽祭 [配信情報](https://www.tokyo-harusai.com/news_jp/20200305/)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
-- 3/19 未定 大阪フィルハーモニー交響楽団 第536回定期演奏会 [詳細](http://www.osaka-phil.com/schedule/detail.php?d=20200319)
+- 3/19 7p 大阪フィルハーモニー交響楽団 第536回定期演奏会 [詳細](http://www.osaka-phil.com/schedule/detail.php?d=20200319)
     - ハイドン／交響曲 第2番 ハ長調 Hob.Ⅰ:2、モーツァルト／交響曲 第5番 変ロ長調 K.22、ストラヴィンスキー／ヴァイオリン協奏曲 ニ長調、バレエ音楽｢春の祭典｣
 
 #### Archive
