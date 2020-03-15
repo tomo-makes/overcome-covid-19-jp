@@ -13,10 +13,14 @@
 
 ## ライブ配信系
 
-同様のコンセプトで、
+同様のコンセプトで国内分は、
 - [オンラインフェスジャパン](https://www.onlinefesjapan.com/)
 - [コンサート無料ライヴ配信スケジュール | WEBぶらあぼ](https://ebravo.jp/archives/63048)
-が公開されています。こちらもご参考に。
+が公開されています。
+
+また、海外分について、
+- [Alex Ross: The Rest Is Noise: COVID-19 live streams](https://www.therestisnoise.com/2020/03/covid-19-live-streams.html)
+こちらもご参考に。
 
 ### 音楽
 #### Upcoming
