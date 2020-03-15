@@ -118,6 +118,8 @@
 - 3/16-31 [春休み青春アニメSP～春休みのあなたに青春のお裾分け～｜ニコニコのアニメサイト：Nアニメ](https://anime.nicovideo.jp/special/seishun-anime/index.html)
     - 「けいおん！」「中二病でも恋がしたい！」「響け！ユーフォニアム」「氷菓」「AIR」「Kanon」「CLANNAD」「涼宮ハルヒの消失」
 - 3/14-31（時差のため日本時間では異なる場合あり） ベルリン・フィルハーモニー管弦楽団 [デジタル・コンサートホール無料開放](https://www.digitalconcerthall.com/ja/tickets)
+- 3/16-22 メトロポリタン・オペラ [Metropolitan Opera to Offer Up 'Nightly Met Opera Streams' - Opera Wire](https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/)
+    - 過去上演の配信。各自オープン後20時間は視聴可
 
 ### 書籍
 
