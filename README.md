@@ -82,6 +82,8 @@
 - 3/16 1a- [Mass from America's Catholic Church - National Shrine of the Immaculate Conception](https://www.nationalshrine.org/mass/)
 - 3/16 2.45a- モータースポーツドライバー vs eスポーツ その2 [F1ドライバー対ゲーマー、中止のF1オーストラリアGPに代わり急遽「not the AUS GP」の開催が決定](https://formula1-data.com/article/not-the-aus-gp-to-held-in-place-of-cancelled-f1-australian-gp)
 - 3/19 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
+- 3/20 7p- 理論物理学者 小林先生による[24時間ではしりぬける物理](https://physics24hour.com/)
+    - タイムテーブル [PDF](https://physics24hour.com/wp-content/uploads/2020/03/TIMETABLE-0314.pdf)
 - 3/26 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 
 #### Archive
