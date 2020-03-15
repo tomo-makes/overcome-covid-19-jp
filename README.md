@@ -21,7 +21,9 @@
 ### 音楽
 #### Upcoming
 
+- 3/15 10a- (6p PST) [Twitch](https://www.twitch.tv/videos/567489691?t=00h00m01s) / [Code Orange reveal concert livestream, other artists may soon follow suit](https://www.altpress.com/news/code-orange-reveal-concert-livestream-on-twitch/)
 - 3/15 4p- ベルリン・フィルのメンバーによる室内楽@東京・春・音楽祭 [配信情報](https://www.tokyo-harusai.com/news_jp/20200305/)
+- 3/16 11p- (7a PST) [Trailer](https://youtu.be/R5jjQUQsde0) / [YUNGBLUD announces concert livestream following show cancellations](https://www.altpress.com/news/yungblud-livestream-concert-coronavirus/)
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 - 3/19 7p 大阪フィルハーモニー交響楽団 第536回定期演奏会 [詳細](http://www.osaka-phil.com/schedule/detail.php?d=20200319)
     - ハイドン／交響曲 第2番 ハ長調 Hob.Ⅰ:2、モーツァルト／交響曲 第5番 変ロ長調 K.22、ストラヴィンスキー／ヴァイオリン協奏曲 ニ長調、バレエ音楽｢春の祭典｣
