@@ -126,6 +126,7 @@
 - 3/5-4/5 [一斉休校により家で過ごすみなさんへ 子供の科学 無料公開 特設サイト 2020年3月5日～4月5日 powered by 子供の科学](https://www.kodomonokagaku.com/20200305/)
 - 倉貫義人著「リモートチームでうまくいく」全文公開 [書籍「リモートチームでうまくいく」を全文公開します（2020年のアップデート付き） - SonicGarden 株式会社ソニックガーデン](https://www.sonicgarden.jp/202003_remoteteam)
 - 3/6-20 白川寧々著「英語ネイティブ脳みそのつくりかた」全文公開 [【期間限定　無料お試し版】英語ネイティブ脳みそのつくりかたの電子書籍｜新刊 - honto電子書籍ストア](https://honto.jp/ebook/pd_30218101.html)
+- 3/16-4/9 [『「次の一手」で覚える将棋基本手筋コレクション４３２』](https://book.mynavi.jp/files/user/shogi_news/free/9784839960070/index.html?page=1)
 
 ### 漫画
 
