@@ -30,6 +30,7 @@
 - 3/19-23 春分の日をはさむ数日間、"ライブコーディング"の配信ライブ [Eulerroom Equinox 2020](http://equinox.eulerroom.com/)
     - [YouTube](https://www.youtube.com/eulerroom/live/)
 - 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
+- 3/21 6p LOVEBITES [BATTLE IN THE EAST DVDライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
 
 #### Archive
 
@@ -130,6 +131,8 @@
 - 3/5-4/5 [一斉休校により家で過ごすみなさんへ 子供の科学 無料公開 特設サイト 2020年3月5日～4月5日 powered by 子供の科学](https://www.kodomonokagaku.com/20200305/)
 - 倉貫義人著「リモートチームでうまくいく」全文公開 [書籍「リモートチームでうまくいく」を全文公開します（2020年のアップデート付き） - SonicGarden 株式会社ソニックガーデン](https://www.sonicgarden.jp/202003_remoteteam)
 - 3/6-20 白川寧々著「英語ネイティブ脳みそのつくりかた」全文公開 [【期間限定　無料お試し版】英語ネイティブ脳みそのつくりかたの電子書籍｜新刊 - honto電子書籍ストア](https://honto.jp/ebook/pd_30218101.html)
+- 3/16-4/8 [「次の一手」で覚える将棋基本手筋コレクション４３２](https://book.mynavi.jp/files/user/shogi_news/free/9784839960070/index.html?page=1)
+- 3/16-4/8 [１冊で詰みの基本が身につく３・５・７手詰](https://book.mynavi.jp/files/user/shogi_news/free/9784839960384/index.html)
 
 ### 漫画
 
@@ -148,6 +151,7 @@
     - 3/9-13 「ハチミツとクローバー」「かげきしょうじょ!!」「東京闇虫」
     - 3/16-20 「会長はメイド様！」「ぼくの地球を守って」「上野さんは不器用」
 - 3/11-17 ebookjapan 「3月のライオン」 1-14巻 [3月のライオン　1巻  羽海野チカ ebookjapan](https://ebookjapan.yahoo.co.jp/books/199496/A000204388/)
+- 3/13-31 コミックDAYS [「ちはやふる」 1-8巻](https://comic-days.com/episode/13932016480030156361)
 
 ### 教育
 
