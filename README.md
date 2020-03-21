@@ -25,15 +25,10 @@
 ### 音楽
 #### Upcoming
 
-- 3/15 9a- Jacksonville Symphony “Give My Regards to Broadway” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL](https://www.jacksonville.com/news/20200313/coronavirus-jacksonville-symphony-to-livestream-saturday-performance?nocache=1&utm_source=twitter&utm_medium=Social&utm_campaign=ghf-jax-main)
-- 3/15 10a- (3/14 6p PST) [Twitch](https://www.twitch.tv/videos/567489691?t=00h00m01s) / [Code Orange reveal concert livestream, other artists may soon follow suit](https://www.altpress.com/news/code-orange-reveal-concert-livestream-on-twitch/)
-- 3/15 4p- ベルリン・フィルのメンバーによる室内楽@東京・春・音楽祭 [配信情報](https://www.tokyo-harusai.com/news_jp/20200305/)
-- 3/16 2a- [15.03.2020 Sunday 18:00 Uhr Bach Collegium Japan, Masaaki Suzuki: Bach »Johannespassion Kölner Philharmonie.TV](http://www.philharmonie.tv/veranstaltung/71/)
-- 3/16 11p- (7a PST) [Trailer](https://youtu.be/R5jjQUQsde0) / [YUNGBLUD announces concert livestream following show cancellations](https://www.altpress.com/news/yungblud-livestream-concert-coronavirus/)
-- 3/18 8a- (3/17 7p EST) [Streaming Up From Boston - Free St. Patrick's Day Live Stream - Dropkick Murphys](http://www.dropkickmurphys.com/2020/03/14/streaming-up-from-boston-free-st-patricks-day-live-stream/)
-- 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 - 3/19 7p 大阪フィルハーモニー交響楽団 第536回定期演奏会 [詳細](http://www.osaka-phil.com/schedule/detail.php?d=20200319)
     - ハイドン／交響曲 第2番 ハ長調 Hob.Ⅰ:2、モーツァルト／交響曲 第5番 変ロ長調 K.22、ストラヴィンスキー／ヴァイオリン協奏曲 ニ長調、バレエ音楽｢春の祭典｣
+- 3/19-23 春分の日をはさむ数日間、"ライブコーディング"の配信ライブ [Eulerroom Equinox 2020](http://equinox.eulerroom.com/)
+    - [YouTube](https://www.youtube.com/eulerroom/live/)
 - 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
 
 #### Archive
@@ -70,20 +65,23 @@
 - 3/14 6p- The Ninth Wave - Ode to Nature 目で聴き、耳で視る『ベートーヴェン』@東京・春・音楽祭 [配信情報](https://www.tokyo-harusai.com/news_jp/20200305/)
 - 3/14 7p- 山形交響楽団 第283回定期演奏会 [CURTAIN CALL 山形交響楽団](https://curtaincall.media/yamakyo.html)
     - シューマン／序曲、スケルツォとフィナーレ 作品52、チャイコフスキー／ヴァイオリン協奏曲 ニ長調 作品35、シューマン／交響曲 第2番 ハ長調 作品61
-
+- 3/15 9a- Jacksonville Symphony “Give My Regards to Broadway” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL](https://www.jacksonville.com/news/20200313/coronavirus-jacksonville-symphony-to-livestream-saturday-performance?nocache=1&utm_source=twitter&utm_medium=Social&utm_campaign=ghf-jax-main)
+- 3/15 10a- (3/14 6p PST) [Twitch](https://www.twitch.tv/videos/567489691?t=00h00m01s) / [Code Orange reveal concert livestream, other artists may soon follow suit](https://www.altpress.com/news/code-orange-reveal-concert-livestream-on-twitch/)
+- 3/15 4p- ベルリン・フィルのメンバーによる室内楽@東京・春・音楽祭 [配信情報](https://www.tokyo-harusai.com/news_jp/20200305/)
+- 3/16 2a- [15.03.2020 Sunday 18:00 Uhr Bach Collegium Japan, Masaaki Suzuki: Bach »Johannespassion Kölner Philharmonie.TV](http://www.philharmonie.tv/veranstaltung/71/)
+- 3/16 11p- (7a PST) [Trailer](https://youtu.be/R5jjQUQsde0) / [YUNGBLUD announces concert livestream following show cancellations](https://www.altpress.com/news/yungblud-livestream-concert-coronavirus/)
+- 3/18 8a- (3/17 7p EST) [Streaming Up From Boston - Free St. Patrick's Day Live Stream - Dropkick Murphys](http://www.dropkickmurphys.com/2020/03/14/streaming-up-from-boston-free-st-patricks-day-live-stream/)
+- 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
 ### その他
 #### Upcoming
 
 - 3/6- よしもと全劇場生配信 [吉本興業、全国の劇場からネット生配信！](https://yoshimoto-live.com/)
-- 3/15 1p- [ASJ beginner's seminar in VR 開催のお知らせ - 日本音響学会 学生・若手フォーラム](http://asj-fresh.acoustics.jp/?p=1390)
-- 3/15 7p- [休館中の東洋陶磁美術館 特別展「竹工芸名品展：ニューヨークのアビー・コレクション－メトロポリタン美術館所蔵」から生中継《ニコニコ美術館》](https://live2.nicovideo.jp/watch/lv324617360)
-- 3/15 9.50p- モータースポーツドライバー vs eスポーツ [こっちもすげぇ…フェルスタッペン含むF1・Indycar・FEの猛者がeスポーツで総激突！15日21時50分より](https://formula1-data.com/article/the-race-all-star-esports-battle)
-- 3/16 1a- [Mass from America's Catholic Church - National Shrine of the Immaculate Conception](https://www.nationalshrine.org/mass/)
-- 3/16 2.45a- モータースポーツドライバー vs eスポーツ その2 [F1ドライバー対ゲーマー、中止のF1オーストラリアGPに代わり急遽「not the AUS GP」の開催が決定](https://formula1-data.com/article/not-the-aus-gp-to-held-in-place-of-cancelled-f1-australian-gp)
-- 3/19 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 - 3/20 7p- 理論物理学者 小林先生による[24時間ではしりぬける物理](https://physics24hour.com/)
     - タイムテーブル [PDF](https://physics24hour.com/wp-content/uploads/2020/03/TIMETABLE-0314.pdf)
+- 3/21-22 大西琢朗先生 2019年度論理学上級II 「様相論理の完全性定理(およびその他の論理への応用)」 
+    - 3/21 1p-6p [YouTube](https://www.youtube.com/watch?v=CGjikv5m6Ys)
+    - 3/22 1p-6p [YouTube](https://www.youtube.com/watch?v=bRE0L08kh6I)
 - 3/26 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 
 #### Archive
@@ -94,6 +92,12 @@
 - 3/10 7p- [休館中の江戸東京博物館「江戸ものづくり列伝－ニッポンの美は職人の技と心に宿る－」展から生中継《ニコニコ美術館》](https://sp.live.nicovideo.jp/watch/lv324617296)
 - 3/12 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 - 3/1４ 5p-8p Ginza Sony Park で開催中の「#013 QUEEN IN THE PARK ～クイーンと遊ぼう～」で使われている、マルチプロジェクションシステム ”Fragment Shadow” の技術解説トーク＆ワークショップ [【オンライン】Park College #07 "Fragment Shadow" Technical Talk & Workshop / Supported by TDSW](https://tdsw023.peatix.com/)
+- 3/15 1p- [ASJ beginner's seminar in VR 開催のお知らせ - 日本音響学会 学生・若手フォーラム](http://asj-fresh.acoustics.jp/?p=1390)
+- 3/15 7p- [休館中の東洋陶磁美術館 特別展「竹工芸名品展：ニューヨークのアビー・コレクション－メトロポリタン美術館所蔵」から生中継《ニコニコ美術館》](https://live2.nicovideo.jp/watch/lv324617360)
+- 3/15 9.50p- モータースポーツドライバー vs eスポーツ [こっちもすげぇ…フェルスタッペン含むF1・Indycar・FEの猛者がeスポーツで総激突！15日21時50分より](https://formula1-data.com/article/the-race-all-star-esports-battle)
+- 3/16 1a- [Mass from America's Catholic Church - National Shrine of the Immaculate Conception](https://www.nationalshrine.org/mass/)
+- 3/16 2.45a- モータースポーツドライバー vs eスポーツ その2 [F1ドライバー対ゲーマー、中止のF1オーストラリアGPに代わり急遽「not the AUS GP」の開催が決定](https://formula1-data.com/article/not-the-aus-gp-to-held-in-place-of-cancelled-f1-australian-gp)
+- 3/19 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 
 ## その他の支援サービス
 
