@@ -30,7 +30,7 @@
 - 3/19-23 春分の日をはさむ数日間、"ライブコーディング"の配信ライブ [Eulerroom Equinox 2020](http://equinox.eulerroom.com/)
     - [YouTube](https://www.youtube.com/eulerroom/live/)
 - 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
-- 3/21 6p LOVEBITES [BATTLE IN THE EAST ライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
+- 3/21 6p LOVEBITES [BATTLE IN THE EAST DVDライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
 
 #### Archive
 
