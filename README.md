@@ -164,6 +164,8 @@
 - [科学技術広報研究会 臨時休校対応特別企画 休校中の子供たちにぜひ見て欲しい科学技術の面白デジタルコンテンツ](https://sites.google.com/view/jacst-for-kids/home#h.8fssbqtuoqcs)
 - 3/11-4/12 シリーズ全巻公開 [小学館版学習まんが少年少女日本の歴史](https://kids-km3.shogakukan.co.jp/)
 - 3/1- [N予備校](https://www.nnn.ed.nico/) 無料開放 
+- UNESCOによるまとめ [Distance learning solutions](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)
+- Googleによる暫定の教師向け情報サイト [Teach from Home](https://teachfromhome.google/intl/en/)
 
 
 ## COVID-19関連の情報
