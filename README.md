@@ -93,6 +93,9 @@
 - 3/10 7p- [休館中の江戸東京博物館「江戸ものづくり列伝－ニッポンの美は職人の技と心に宿る－」展から生中継《ニコニコ美術館》](https://sp.live.nicovideo.jp/watch/lv324617296)
 - 3/12 4p-9p Venture Cafe Tokyo Thursday Gathering [This Week’s Programming](https://venturecafetokyo.org/event-calendar/this-weeks-programming/)
 - 3/1４ 5p-8p Ginza Sony Park で開催中の「#013 QUEEN IN THE PARK ～クイーンと遊ぼう～」で使われている、マルチプロジェクションシステム ”Fragment Shadow” の技術解説トーク＆ワークショップ [【オンライン】Park College #07 "Fragment Shadow" Technical Talk & Workshop / Supported by TDSW](https://tdsw023.peatix.com/)
+- 3/14-15 京都大学CAPEレクチャー論理学上級I 「古典論理の計算的内実」 谷田部先生
+    - 3/14 1p-5:30p [YouTube](https://youtu.be/KrX0Efnulgg)
+    - 3/15 1p-5:30p [YouTube](https://youtu.be/Pf1YU4JEkkw)
 - 3/15 1p- [ASJ beginner's seminar in VR 開催のお知らせ - 日本音響学会 学生・若手フォーラム](http://asj-fresh.acoustics.jp/?p=1390)
 - 3/15 7p- [休館中の東洋陶磁美術館 特別展「竹工芸名品展：ニューヨークのアビー・コレクション－メトロポリタン美術館所蔵」から生中継《ニコニコ美術館》](https://live2.nicovideo.jp/watch/lv324617360)
 - 3/15 9.50p- モータースポーツドライバー vs eスポーツ [こっちもすげぇ…フェルスタッペン含むF1・Indycar・FEの猛者がeスポーツで総激突！15日21時50分より](https://formula1-data.com/article/the-race-all-star-esports-battle)
