@@ -32,7 +32,10 @@
 - 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
 - 3/21 6p LOVEBITES [BATTLE IN THE EAST DVDライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
 - 3/21-22 [スカパラ、約4万人が視聴した配信ライブ「TOKYO SKA JAM “8”」をアーカイブ公開 - 音楽ナタリー](https://natalie.mu/music/news/372182)
-- 3/29 6-8p MTV LIVE: NON KAIWA FES vol.2 [視聴方法](http://www.mtvjapan.com/news/wojou3/ml-non-kaiwa-fes-2)
+- 3/29 6-8p [MTV LIVE: NON KAIWA FES vol.2](https://twitter.com/MTV_JAPAN/status/1241711293557608450)
+    - シガレッツ、阿部真央、リーガルリリー、チリヌルヲワカ
+    - [MTV視聴方法](http://www.mtvjapan.com/news/wojou3/ml-non-kaiwa-fes-2)
+
 
 #### Archive
 
