@@ -31,6 +31,7 @@
     - [YouTube](https://www.youtube.com/eulerroom/live/)
 - 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
 - 3/21 6p LOVEBITES [BATTLE IN THE EAST DVDライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
+- 3/21-22 [スカパラ、約4万人が視聴した配信ライブ「TOKYO SKA JAM “8”」をアーカイブ公開 - 音楽ナタリー](https://natalie.mu/music/news/372182)
 
 #### Archive
 
@@ -128,14 +129,18 @@
 - 3/14-31（時差のため日本時間では異なる場合あり） ベルリン・フィルハーモニー管弦楽団 [デジタル・コンサートホール無料開放](https://www.digitalconcerthall.com/ja/tickets)
 - 3/16-22 メトロポリタン・オペラ [Metropolitan Opera to Offer Up 'Nightly Met Opera Streams' - Opera Wire](https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/)
     - 過去上演の配信。各自オープン後20時間は視聴可
+- 3/16-4/5 [「ケロロ軍曹」 1stシーズン配信](https://twitter.com/keroro_PR/status/1239423412029648897?s=20)
+- 3/19-5/11 JOYSOUNDのカラオケにあわせたエクササイズ動画44本公開 [o自宅で気軽にリフレッシュ！　音楽に合わせて運動不足解消](https://camp.joysound.com/joybeat_movie/)
 
 ### 書籍
 
 - 3/5-4/5 [一斉休校により家で過ごすみなさんへ 子供の科学 無料公開 特設サイト 2020年3月5日～4月5日 powered by 子供の科学](https://www.kodomonokagaku.com/20200305/)
 - 倉貫義人著「リモートチームでうまくいく」全文公開 [書籍「リモートチームでうまくいく」を全文公開します（2020年のアップデート付き） - SonicGarden 株式会社ソニックガーデン](https://www.sonicgarden.jp/202003_remoteteam)
 - 3/6-20 白川寧々著「英語ネイティブ脳みそのつくりかた」全文公開 [【期間限定　無料お試し版】英語ネイティブ脳みそのつくりかたの電子書籍｜新刊 - honto電子書籍ストア](https://honto.jp/ebook/pd_30218101.html)
+- 3/11-4/12 シリーズ全巻公開 [小学館版学習まんが少年少女日本の歴史](https://kids-km3.shogakukan.co.jp/)
 - 3/16-4/8 [「次の一手」で覚える将棋基本手筋コレクション４３２](https://book.mynavi.jp/files/user/shogi_news/free/9784839960070/index.html?page=1)
 - 3/16-4/8 [１冊で詰みの基本が身につく３・５・７手詰](https://book.mynavi.jp/files/user/shogi_news/free/9784839960384/index.html)
+- 3/19-4/8 [「春休み特別企画　KADOKAWAの学習参考書80冊以上が無料公開！」  電子書籍ストア-BOOK☆WALKER](https://bookwalker.jp/select/320/?adpcnt=7qM_VskU)
 
 ### 漫画
 
@@ -162,10 +167,10 @@
 - [臨時休業期間における学習支援コンテンツポータルサイト（子供の学び応援サイト）：文部科学省](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/index_00001.htm)
 - [オンライン授業のための情報まとめ - digitalnagasakiのブログ](https://digitalnagasaki.hatenablog.com/entry/2020/03/15/002904)
 - [科学技術広報研究会 臨時休校対応特別企画 休校中の子供たちにぜひ見て欲しい科学技術の面白デジタルコンテンツ](https://sites.google.com/view/jacst-for-kids/home#h.8fssbqtuoqcs)
-- 3/11-4/12 シリーズ全巻公開 [小学館版学習まんが少年少女日本の歴史](https://kids-km3.shogakukan.co.jp/)
 - 3/1- [N予備校](https://www.nnn.ed.nico/) 無料開放 
 - UNESCOによるまとめ [Distance learning solutions](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)
 - Googleによる暫定の教師向け情報サイト [Teach from Home](https://teachfromhome.google/intl/en/)
+
 
 
 ## COVID-19関連の情報
