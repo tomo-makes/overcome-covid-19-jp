@@ -113,7 +113,7 @@
 
 > [VS COVID-19 企業による支援リスト](https://codeforjapan.github.io/supportmenu-vs-covid19/)
 
-### TV、動画
+### TV、ドラマ等
 
 - 3/4-3/末 スカパー無料放送 [スカパー！、休校・自宅待機を受け一部チャンネルで無料放送 - CNET Japan](https://japan.cnet.com/article/35150381/)
 - 3/4- アニマックス無料放送(BS ch236) [＜自宅待機を支援＞アニマックス無料放送のお知らせ アニマックス](https://www.animax.co.jp/blog/619471)
@@ -121,18 +121,23 @@
 - 3/6-13 会員登録不要で日本テレビ一部コンテンツの無料配信。ドラマ92作品、バラエティ27作品 [Hulu](https://www.hulu.jp/?migrated=true)
 - 3/6-31 Paravi [【期間限定】長期春休み応援！ドラマ無料配信 Paravi(パラビ) - 人気番組が楽しめる動画配信サービス](https://www.paravi.jp/browse/editorial/10182)
     - 「桜蘭高校ホスト部」「表参道高校合唱部！」「オレンジデイズ」「義母と娘のブルース」「恋空」「下町ロケット（2018年）」「JIN -仁-」「世界の中心で、愛をさけぶ」「タンブリング」「チア☆ダン」「中学聖日記」「天皇の料理番」「とんび」「ノーサイド・ゲーム」「初めて恋をした日に読む話」「花のち晴れ～花男 Next Season～」「ビー・バップ・ハイスクール」「放課後グルーヴ」「放課後はミステリーとともに」「ヤンキー君とメガネちゃん」「陸王」「ROOKIES」
-- 3/6-31 avex 期間限定ライブ映像公開 [【期間限定】LIVE映像公開！ - YouTube](https://www.youtube.com/playlist?list=PLgtRDsudgFDAq2fLG-4_9omtbovyKubbL)
-    - エイベックス・マネジメント(AMG)所属アーティストによるライブ映像コンテンツ約100本順次公開。TRF、浜崎あゆみ、倖田來未、AAAなど
 - 3/6-31 よしもと新喜劇(MBS放送分)の無料公開 @MBS動画イズム、TVer、GYAO! [MBSが「よしもと新喜劇」20本無料配信、新型コロナウイルス感染拡大を受けて - お笑いナタリー](https://natalie.mu/owarai/news/370028)
 - 3/9-4/5 Amazonプライムビデオ [Amazonプライムビデオでアニメ『ポケットモンスター』や『妖怪ウォッチ』などキッズ向けコンテンツの一部が無料配信【4/5まで】（ファミ通.com） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200309-00000005-famitsu-game)
     - 『ポケットモンスター』シリーズ、『妖怪ウォッチ』シリーズ、『しまじろう』シリーズ、『新あたしンち』『はなかっぱ』『忍たま乱太郎 第１６シリーズ』『おじゃる丸シーズン 1』『高速戦隊ターボレンジャー』『ねこねこ日本史』『パズドラ（第2シリーズ）』『新幹線変形ロボ シンカリオン』
 - 3/16-31 [春休み青春アニメSP～春休みのあなたに青春のお裾分け～｜ニコニコのアニメサイト：Nアニメ](https://anime.nicovideo.jp/special/seishun-anime/index.html)
     - 「けいおん！」「中二病でも恋がしたい！」「響け！ユーフォニアム」「氷菓」「AIR」「Kanon」「CLANNAD」「涼宮ハルヒの消失」
+- 3/16-4/5 [「ケロロ軍曹」 1stシーズン配信](https://twitter.com/keroro_PR/status/1239423412029648897?s=20)
+- 3/19-5/11 JOYSOUNDのカラオケにあわせたエクササイズ動画44本公開 [o自宅で気軽にリフレッシュ！　音楽に合わせて運動不足解消](https://camp.joysound.com/joybeat_movie/)
+
+### 音楽、演劇等
+
+- 3/6-31 avex 期間限定ライブ映像公開 [【期間限定】LIVE映像公開！ - YouTube](https://www.youtube.com/playlist?list=PLgtRDsudgFDAq2fLG-4_9omtbovyKubbL)
+    - エイベックス・マネジメント(AMG)所属アーティストによるライブ映像コンテンツ約100本順次公開。TRF、浜崎あゆみ、倖田來未、AAAなど
 - 3/14-31（時差のため日本時間では異なる場合あり） ベルリン・フィルハーモニー管弦楽団 [デジタル・コンサートホール無料開放](https://www.digitalconcerthall.com/ja/tickets)
 - 3/16-22 メトロポリタン・オペラ [Metropolitan Opera to Offer Up 'Nightly Met Opera Streams' - Opera Wire](https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/)
     - 過去上演の配信。各自オープン後20時間は視聴可
-- 3/16-4/5 [「ケロロ軍曹」 1stシーズン配信](https://twitter.com/keroro_PR/status/1239423412029648897?s=20)
-- 3/19-5/11 JOYSOUNDのカラオケにあわせたエクササイズ動画44本公開 [o自宅で気軽にリフレッシュ！　音楽に合わせて運動不足解消](https://camp.joysound.com/joybeat_movie/)
+- 3/22- ピストンズ「夢見る喜世子レヴュー」配信 [演劇動画配信サービス「観劇三昧」: 作品一覧](https://v2.kan-geki.com/streaming)
+
 
 ### 書籍
 
