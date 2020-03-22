@@ -73,6 +73,8 @@
 - 3/16 2a- [15.03.2020 Sunday 18:00 Uhr Bach Collegium Japan, Masaaki Suzuki: Bach »Johannespassion Kölner Philharmonie.TV](http://www.philharmonie.tv/veranstaltung/71/)
 - 3/16 11p- (7a PST) [Trailer](https://youtu.be/R5jjQUQsde0) / [YUNGBLUD announces concert livestream following show cancellations](https://www.altpress.com/news/yungblud-livestream-concert-coronavirus/)
 - 3/18 8a- (3/17 7p EST) [Streaming Up From Boston - Free St. Patrick's Day Live Stream - Dropkick Murphys](http://www.dropkickmurphys.com/2020/03/14/streaming-up-from-boston-free-st-patricks-day-live-stream/)
+- 3/18 7p- 東京混声合唱団 合唱で全国へエール　supported by KDDI [YouTube](https://www.youtube.com/watch?v=2QYThoZOTSM&feature=youtu.be)
+    - 「心の瞳」「小さな空」「くちびるに歌を」「旅立ちの日に」「群青」「3月9日」「大地讃頌」
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
 ### その他
