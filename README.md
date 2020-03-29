@@ -195,7 +195,7 @@
 ## COVID-19関連の情報
 
 - 感染症専門医による、冷静かつ平易な言葉での解説、発信 [忽那賢志の記事一覧 - 個人 - Yahoo!ニュース](https://news.yahoo.co.jp/byline/kutsunasatoshi/)
-
+- 経産省 事業者向けの新型コロナ対策支等 [新型コロナウイルス感染症関連 （METI/経済産業省）](https://www.meti.go.jp/covid-19/index.html?fbclid=IwAR2gGTOi3rkE3sLMhd2ifrL4T2slJ_z4uonCV0n2YL3YDQ4A4D1PjVTNIfk)
 
 
 
