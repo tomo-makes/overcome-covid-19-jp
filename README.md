@@ -25,25 +25,8 @@
 ### 音楽
 #### Upcoming
 
-- 3/19 7p 大阪フィルハーモニー交響楽団 第536回定期演奏会 [詳細](http://www.osaka-phil.com/schedule/detail.php?d=20200319)
-    - ハイドン／交響曲 第2番 ハ長調 Hob.Ⅰ:2、モーツァルト／交響曲 第5番 変ロ長調 K.22、ストラヴィンスキー／ヴァイオリン協奏曲 ニ長調、バレエ音楽｢春の祭典｣
-- 3/19-23 春分の日をはさむ数日間、"ライブコーディング"の配信ライブ [Eulerroom Equinox 2020](http://equinox.eulerroom.com/)
-    - [YouTube](https://www.youtube.com/eulerroom/live/)
-- 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
-- 3/21 6p LOVEBITES [BATTLE IN THE EAST DVDライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
-- 3/21-22 [スカパラ、約4万人が視聴した配信ライブ「TOKYO SKA JAM “8”」をアーカイブ公開 - 音楽ナタリー](https://natalie.mu/music/news/372182)
-- 3/28 2p- [センチュリー豊中名曲シリーズＶｏｌ．１３ - ニコニコ生放送](https://sp.live.nicovideo.jp/watch/lv324867973)
-- 3/28 2:30p- [京都市交響楽団 第643回定期演奏会 無観客ライブ配信](https://www.kyoto-symphony.jp/concert/?y=2020&m=3#id809) （PDF：公演チラシあり）
-    - シューベルト：交響曲第5番変ロ長調 D.485、マーラー：交響曲第4番ト長調
-    - 配信サイト：[カーテンコール](https://curtaincall.media/kyoto-symphony.html)
-- 3/28- [都響スペシャル「春休みの贈り物」動画配信について | 東京都交響楽団](https://www.tmso.or.jp/j/news/8763/)
-    - 長く愛される名曲を《みんなで歌おう！》
-    - オーケストラ名曲集《癒やしの音楽》
-- 3/29 6-8p [MTV LIVE: NON KAIWA FES vol.2](https://twitter.com/MTV_JAPAN/status/1241711293557608450)
-    - シガレッツ、阿部真央、リーガルリリー、チリヌルヲワカ
-    - [MTV視聴方法](http://www.mtvjapan.com/news/wojou3/ml-non-kaiwa-fes-2)
-
-
+- 4/17 3a-4/19 3a [The Shows Must Go On! - YouTube](https://www.youtube.com/channel/UCdmPjhKMaXNNeCr1FjuMvag) (毎週末のミュージカル配信)
+    - 
 
 #### Archive
 
@@ -89,6 +72,25 @@
     - 「心の瞳」「小さな空」「くちびるに歌を」「旅立ちの日に」「群青」「3月9日」「大地讃頌」
 - 3/18 SixTONES, Snow Man [ドコモ「新体感ライブ CONNECT スペシャルイベント」](https://special.shintaikan.live/ss_2?utm_source=tw&utm_medium=social&utm_campaign=shintaikanlive_202001_STSM-CPN02&utm_content=tw_docomo_live)
 
+- 3/19 7p 大阪フィルハーモニー交響楽団 第536回定期演奏会 [詳細](http://www.osaka-phil.com/schedule/detail.php?d=20200319)
+    - ハイドン／交響曲 第2番 ハ長調 Hob.Ⅰ:2、モーツァルト／交響曲 第5番 変ロ長調 K.22、ストラヴィンスキー／ヴァイオリン協奏曲 ニ長調、バレエ音楽｢春の祭典｣
+- 3/19-23 春分の日をはさむ数日間、"ライブコーディング"の配信ライブ [Eulerroom Equinox 2020](http://equinox.eulerroom.com/)
+    - [YouTube](https://www.youtube.com/eulerroom/live/)
+- 3/21 9a- Jacksonville Symphony “SHIFT: Kennedy Center Bound” [Coronavirus: Jacksonville Symphony to livestream Saturday performance - News - The Florida Times-Union - Jacksonville, FL]
+- 3/21 6p LOVEBITES [BATTLE IN THE EAST DVDライブ映像プレミア初公開](https://www.youtube.com/watch?v=IG98XEgDnWk) 
+- 3/21-22 [スカパラ、約4万人が視聴した配信ライブ「TOKYO SKA JAM “8”」をアーカイブ公開 - 音楽ナタリー](https://natalie.mu/music/news/372182)
+- 3/28 2p- [センチュリー豊中名曲シリーズＶｏｌ．１３ - ニコニコ生放送](https://sp.live.nicovideo.jp/watch/lv324867973)
+- 3/28 2:30p- [京都市交響楽団 第643回定期演奏会 無観客ライブ配信](https://www.kyoto-symphony.jp/concert/?y=2020&m=3#id809) （PDF：公演チラシあり）
+    - シューベルト：交響曲第5番変ロ長調 D.485、マーラー：交響曲第4番ト長調
+    - 配信サイト：[カーテンコール](https://curtaincall.media/kyoto-symphony.html)
+- 3/28- [都響スペシャル「春休みの贈り物」動画配信について | 東京都交響楽団](https://www.tmso.or.jp/j/news/8763/)
+    - 長く愛される名曲を《みんなで歌おう！》
+    - オーケストラ名曲集《癒やしの音楽》
+- 3/29 6-8p [MTV LIVE: NON KAIWA FES vol.2](https://twitter.com/MTV_JAPAN/status/1241711293557608450)
+    - シガレッツ、阿部真央、リーガルリリー、チリヌルヲワカ
+    - [MTV視聴方法](http://www.mtvjapan.com/news/wojou3/ml-non-kaiwa-fes-2)
+    
+    
 ### その他
 #### Upcoming
 
