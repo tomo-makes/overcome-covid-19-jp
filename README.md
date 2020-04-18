@@ -25,8 +25,8 @@
 ### 音楽
 #### Upcoming
 
-- 4/17 3a-4/19 3a [The Shows Must Go On! - YouTube](https://www.youtube.com/channel/UCdmPjhKMaXNNeCr1FjuMvag) (毎週末のミュージカル配信)
-    - 
+- [The Shows Must Go On! - YouTube](https://www.youtube.com/channel/UCdmPjhKMaXNNeCr1FjuMvag) (毎週末のミュージカル配信)
+    - 4/17 3a-4/19 3a 「The Phantom of the Opera オペラ座の怪人」
 
 #### Archive
 
