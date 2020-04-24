@@ -196,7 +196,7 @@
 - 3/1- [N予備校](https://www.nnn.ed.nico/) 無料開放 
 - UNESCOによるまとめ [Distance learning solutions](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)
 - Googleによる暫定の教師向け情報サイト [Teach from Home](https://teachfromhome.google/intl/en/)
-
+- 3/24- 6/30 [『マインクラフト』の教育用コンテンツが公式ストアで期間限定無料配布。子供たちの在宅学習を支援する目的 | AUTOMATON](https://automaton-media.com/articles/newsjp/20200325-118019/)
 
 
 ## COVID-19関連の情報
