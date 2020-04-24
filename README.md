@@ -151,6 +151,11 @@
 - 3/16-22 メトロポリタン・オペラ [Metropolitan Opera to Offer Up 'Nightly Met Opera Streams' - Opera Wire](https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/)
     - 過去上演の配信。各自オープン後20時間は視聴可
 - 3/22- ピストンズ「夢見る喜世子レヴュー」配信 [演劇動画配信サービス「観劇三昧」: 作品一覧](https://v2.kan-geki.com/streaming)
+- 5/2-6 [2020年 GW 「船の考古学」無料オンライン講義 – Hi-Story of the Seven Seas](https://suichukoukogaku.com/nautical-archaeology-2020-gw/)
+
+### VR
+
+- [おうちで体験！かはくVR -国立科学博物館-](https://www.kahaku.go.jp/VR/)
 
 
 ### 書籍
