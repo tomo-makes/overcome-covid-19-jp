@@ -151,6 +151,8 @@
 - 3/16-22 メトロポリタン・オペラ [Metropolitan Opera to Offer Up 'Nightly Met Opera Streams' - Opera Wire](https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/)
     - 過去上演の配信。各自オープン後20時間は視聴可
 - 3/22- ピストンズ「夢見る喜世子レヴュー」配信 [演劇動画配信サービス「観劇三昧」: 作品一覧](https://v2.kan-geki.com/streaming)
+- 4/19 9p- 劇団テレワーク [本公演#01「最高のテレワークマナー」](https://www.youtube.com/watch?v=FrvWkRBhHmc)
+- 4/26 9p- 劇団テレワーク [本公演#02「BestFriends.com」](https://www.youtube.com/watch?v=jeLJ5VMY-D4)
 - 5/2-6 [2020年 GW 「船の考古学」無料オンライン講義 – Hi-Story of the Seven Seas](https://suichukoukogaku.com/nautical-archaeology-2020-gw/)
 
 ### VR
