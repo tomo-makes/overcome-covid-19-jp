@@ -199,6 +199,7 @@
 - UNESCOによるまとめ [Distance learning solutions](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)
 - Googleによる暫定の教師向け情報サイト [Teach from Home](https://teachfromhome.google/intl/en/)
 - 3/24- 6/30 [『マインクラフト』の教育用コンテンツが公式ストアで期間限定無料配布。子供たちの在宅学習を支援する目的 | AUTOMATON](https://automaton-media.com/articles/newsjp/20200325-118019/)
+- [農三世界史 - YouTube](https://www.youtube.com/channel/UCBgPvFCg0jsGGTQAvzOlNWQ) 現役の先生が休校の間を活用して世界史の講義動画を発信。
 
 
 ## COVID-19関連の情報
