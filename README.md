@@ -142,6 +142,7 @@
     - 「けいおん！」「中二病でも恋がしたい！」「響け！ユーフォニアム」「氷菓」「AIR」「Kanon」「CLANNAD」「涼宮ハルヒの消失」
 - 3/16-4/5 [「ケロロ軍曹」 1stシーズン配信](https://twitter.com/keroro_PR/status/1239423412029648897?s=20)
 - 3/19-5/11 JOYSOUNDのカラオケにあわせたエクササイズ動画44本公開 [o自宅で気軽にリフレッシュ！　音楽に合わせて運動不足解消](https://camp.joysound.com/joybeat_movie/)
+- [宇宙兄弟 が見放題！ | Hulu(フールー) 【お試し無料】](https://www.hulu.jp/space-brothers)
 
 ### 音楽、演劇等
 
