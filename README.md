@@ -200,6 +200,8 @@
 - UNESCOによるまとめ [Distance learning solutions](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)
 - Googleによる暫定の教師向け情報サイト [Teach from Home](https://teachfromhome.google/intl/en/)
 - 3/24- 6/30 [『マインクラフト』の教育用コンテンツが公式ストアで期間限定無料配布。子供たちの在宅学習を支援する目的 | AUTOMATON](https://automaton-media.com/articles/newsjp/20200325-118019/)
+- 5/2-10 [おうち授業 - ヤフーステイホーム 毎日のおうち時間が楽しくなる - Yahoo! JAPAN](https://ouchi.yahoo.co.jp/study/)
+    - 広瀬香美先生による「パプリカ」の歌レッスン、でんじろう先生の科学実験マジック、ともりだくさん。日々更新。
 - [農三世界史 - YouTube](https://www.youtube.com/channel/UCBgPvFCg0jsGGTQAvzOlNWQ) 現役の先生が休校の間を活用して世界史の講義動画を発信。
 
 
